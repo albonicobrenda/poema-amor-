@@ -1,7 +1,16 @@
-body{
-.h1 
-    background-color: #060404;
-color: #BF3030;
-font-size: 20px;
-text-align: Kumar One;
-    }
+
+
+
+.verso{
+    color: hsl(0, 17%, 95%);
+    font-size: 20px;
+    text-align: center;
+    background-image: url(heart-1137259_640.webp);
+  background-position: 0,1cm;
+  background-size: cover;
+ 
+}
+.texto-um{
+    color: #811207;
+   font-weight: 900;
+}
