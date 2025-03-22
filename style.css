@@ -3,7 +3,9 @@
 
 .verso{
     color: hsl(0, 17%, 95%);
-    font-size: 20px;
+    font-size: 25px;
+  font-style: initial;
+  font-weight: 600;
     text-align: center;
     background-image: url(heart-1137259_640.webp);
   background-position: 0,1cm;
